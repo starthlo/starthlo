@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lkostyrka17@gmail.com)
-[<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />](https://web.skype.com skypeID:live:.cid.55ed0bb104b24bb)
+[<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />](https://web.skype.com)
 
 #### ✨ Technical Stacks ✨
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 ), [Shopify](https://shopify.com/)
