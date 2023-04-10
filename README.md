@@ -1,15 +1,14 @@
 <p align="center">
-  <a href="https://github.com/mystery000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;Blockchain%20developer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/mystery000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;Blockchain%20developer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
 </p>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sniperdev716&label=Profile%20views&color=0e75b6&style=flat" alt="sniperdev716" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthlo&label=Profile%20views&color=0e75b6&style=flat" alt="arthlo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sniper.dev716@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lkostyrka17@gmail.com)
 [<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />](https://web.skype.com)
-[<img src="https://img.shields.io/badge/stackoverflow-%23667722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/18644929)
 
 #### ✨ Technical Stacks ✨
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 ), [Shopify](https://shopify.com/)
