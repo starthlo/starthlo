@@ -1,9 +1,9 @@
 # 🌟 Hey, I'm a Senior Full-Stack Developer!
 
-Welcome to my GitHub! I'm a dedicated engineer building **scalable, user-focused web applications** with **React**, **Node.js**, **Python**, and **AWS**. My passion lies in crafting performant systems that deliver—think **75% faster APIs**, **25% conversion boosts**, and **99.98% uptime** for millions of users. Excited to share my code and collaborate! Let's build something epic! 🚀
+Welcome to my GitHub! I'm a dedicated engineer building **scalable, user-focused web applications** with **React**, **Node.js**, **Python**, and **AWS**. My passion lies in crafting performant systems that deliver—think **75% faster APIs**, **25% conversion boosts**, and **99.98% uptime** for millions of users. Excited to share my code and collaborate! Let's build something epic!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starthlo&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starthlo&layout=compact&theme=dracula)
 
 ---
 
@@ -18,16 +18,7 @@ I thrive on creating **full-stack solutions** that blend seamless frontends with
 - **Testing**: Jest, Playwright, Pytest (90%+ coverage)
 - **Architecture**: Microservices, serverless, event-driven systems
 
-From optimizing **real-time APIs** to deploying **zero-downtime systems**, my repos showcase production-grade code. Dive in! 💻
-
----
-
-## 🎯 Career Highlights
-
-- ⚡ **75% Faster APIs**: Slashed response times with optimized Node.js microservices.
-- 📈 **25% Conversion Growth**: Enhanced UX with Next.js and A/B testing.
-- 🌍 **2M+ Users Served**: Scaled platforms with 99.98% uptime on AWS.
-- 🧪 **90% Test Coverage**: Built reliable systems with Jest and Playwright.
+From optimizing **real-time APIs** to deploying **zero-downtime systems**, my repos showcase production-grade code. Dive in!
 
 ---
 
